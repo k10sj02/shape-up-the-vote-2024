@@ -1,4 +1,4 @@
-# Shape Up The Vote Election Turnout Project
+# Shape Up The Vote: 2024 Election Turnout Project
 
 ## Project Description
 Shape Up The Vote is a non-partisan campaign aiming to increase voter turnout by transforming barbershops and salons into voter engagement hubs within their communities. In 2024, we plan to launch this program in 13 states, engaging 5,500 participating shops. Our strategy is based on relational organizing principles, allowing barbers and stylists to foster conversations about voting during election cycles.
