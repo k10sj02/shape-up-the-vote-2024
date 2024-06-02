@@ -29,5 +29,5 @@ As a remote-only program, we employ text and phone banking to communicate with p
 **Criteria for Ranking:**
 - **Quality:** Presence and completeness of contact information, and textable status of phone numbers.
 - **Fit:** Location in underserved areas, communities of color, and regions with historically low voter registration rates.
-**Tools:** Hex for data analysis, including filtering, sorting, and ranking functionalities.
-**Output:** Final lists of barbershops per state, categorized by their quality and suitability for the program.
+- **Tools:** Hex for data analysis, including filtering, sorting, and ranking functionalities.
+- **Output:** Final lists of barbershops per state, categorized by their quality and suitability for the program.
